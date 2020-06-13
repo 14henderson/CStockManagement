@@ -1,0 +1,13 @@
+diode, BY126,   118, 12
+diode, BY127,   45, 12
+diode, 1N4001,  208, 4
+diode, 1N4004,  194, 6
+diode, 1N4148,  201, 5
+transistor, AC125,    13, 35, PNP
+transistor, AC126,    40, 37, PNP
+transistor, BC107,    20, 10, NPN
+transistor, BC108,    9, 12, NPN
+transistor, TIS88A,   42, 50, FET
+transistor, OC44,     57, 50, PNP
+transistor, 2N2369A,  37, 18, NPN
+IC, NE555,  8, 17,  "Timer"
